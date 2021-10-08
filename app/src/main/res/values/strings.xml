@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BleDemo</string>
+    <string name="unknown">Unknown</string>
+    <string name="connect">Connect</string>
+    <string name="advertising">Advertising</string>
+    <string name="len">Len</string>
+    <string name="type">Type</string>
+    <string name="data">Data</string>
+    <string name="characteristic">Characteristics</string>
+    <string name="bond">Bond</string>
+    <string name="read">Read</string>
+    <string name="write">Write</string>
+    <string name="notify">Notify</string>
+    <string name="data_tips">Data: 0x</string>
+    <string name="data_hint">010203AABBCC</string>
+    <string name="send">Send</string>
+    <string name="mtu_tips">Mtu: </string>
+    <string name="mtu_hint">20 </string>
+
+
+
+</resources>
